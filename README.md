@@ -25,7 +25,7 @@ Hvis noe går galt: `./reset.sh` tilbakestiller repoet.
 1. Endre innholdet i app.txt
 1. Commit endringen (`git commit --all --message "Melding"`)
 1. Angre commiten, men behold endringen i staging area
-1. Verifiser at app.txt er «Changes not staged for commit» (`git status`)
+1. Verifiser at app.txt er «Changes to be commited» (`git status`)
 
 ## d) Angre reset
 1. (Fjern endringen fra forrige oppgave)
